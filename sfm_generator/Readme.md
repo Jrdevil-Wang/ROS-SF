@@ -23,4 +23,4 @@ python generate.py -msg sensor_msgs/msg/Image.msg -l 6222720
 
 `-l` : to specify the maximum length of the serialization-free message
 
-Corresponding `.h` file will be generated under include folder.
+Corresponding `.h` file will be generated under folder `include`.
