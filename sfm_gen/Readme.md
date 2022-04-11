@@ -15,8 +15,8 @@ cd scripts
 python generate.py -msg sensor_msgs/msg/Image.msg -l 6222720
 ```
 
-`-msg` : to specify the relative location of the original ROS `.msg` file, which should be located under /opt/ros/$ROS_VERSION$/include/
+`-msg` : to specify the relative location of the original ROS `.msg` file, which should be located under `/opt/ros/$ROS_VERSION$/include/`
 
 `-l` : to specify the maximum length of the serialization-free message
 
-Corresponding `.h` file will be generated under the folder `include`, where two generated examples can be found.
+Corresponding `.h` file will be generated under the folder `include`, where two generated examples can be found. They should be placed back to `/opt/ros/$ROS_VERSION$/include/` (remember to backup the original ROS version!).
