@@ -4,7 +4,7 @@ Code to generate corresponding serialization-free messages for ROS.
 
 ## Requirements
 
-Install ROS: (Recommended: Ubuntu 18.04 & ROS Noetic)
+Install ROS: (Recommended: Ubuntu 20.04 & ROS Noetic)
 
 http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
 
