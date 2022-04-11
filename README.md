@@ -10,9 +10,3 @@ This work consists of three components: SFM generator (under `./sfm_gen`), ROS-S
 
 See the README.md in each folder for further information.
 
-## 
-
-ROS-SF converter is under the folder `./sfm_conv` .
-
-
-
