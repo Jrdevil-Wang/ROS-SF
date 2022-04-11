@@ -6,21 +6,21 @@ To be presented in Middleware 2022 (https://middleware-conf.github.io/2022/)
 
 This work consists of three components, and we also share a test workspace:
 
-1. **SFM Generator**
+## SFM Generator
 
 Under the /sfm_gen directory. It can generate a SFM class header file from ROS message description (.msg) file.
 
-2. **ROS-SF Library**
+## ROS-SF Library
 
 Under the /sfm_lib directory. It needs to be compiled along with an application project using ROS-SF.
 
-3. **ROS-SF Convertor**
+## ROS-SF Convertor
 
 Under the /sfm_conv directory. It can automatically convert ROS application project code to meet the needs of our ROS-SF framework.
 
 See the README.md in each directory for further information.
 
-4. **Test workspace**
+## Test workspace
 
 A test workspace is placed under the /test_ws directory.
 It is designed based on a [tutorial of ROS](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29).
