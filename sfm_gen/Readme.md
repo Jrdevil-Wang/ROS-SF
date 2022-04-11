@@ -8,8 +8,6 @@ Install ROS: (Recommended: Ubuntu 18.04 & ROS Noetic)
 
 http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
 
-### 
-
 ## Generate ROS-SF message
 
 ```
