@@ -1,0 +1,26 @@
+<package>
+  <name>pub_test</name>
+  <version>1.2.4</version>
+  <description>
+    This package test image publish with sfm.
+  </description>
+  <maintainer email="wyp@tsinghua.edu.cn">Yu-Ping Wang</maintainer>
+  <license>BSD</license>
+
+  <url></url>
+  <author>Yu-Ping Wang</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+
+  <test_depend>python-mock</test_depend>
+</package>
+
